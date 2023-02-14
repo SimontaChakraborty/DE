@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DEAPP", "DEAPP.csproj", "{1C30BBE8-B6B3-454C-887A-389D32C720FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C30BBE8-B6B3-454C-887A-389D32C720FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C30BBE8-B6B3-454C-887A-389D32C720FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C30BBE8-B6B3-454C-887A-389D32C720FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C30BBE8-B6B3-454C-887A-389D32C720FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1551D142-6324-4E89-9234-2576B8CF8AE5}
+	EndGlobalSection
+EndGlobal
